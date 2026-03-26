@@ -1,1 +1,111 @@
-<!-- HEADER --> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&pause=1000&color=E8A020¢er=true&vCenter=true&width=600&lines=Hey%2C+I'm+Aryan+%F0%9F%91%8B;Founder+%40+AFX+Studios;Creative+Director+%7C+Delhi%2C+India;Building+things+that+look+sick." alt="Typing SVG" /> <br/> [![AFX Studios](https://img.shields.io/badge/AFX%20Studios-%E2%98%85%20Founder-E8A020?style=for-the-badge&logo=adobe&logoColor=white)](https://github.com/aaryangt) [![Location](https://img.shields.io/badge/Delhi%2C%20India-blue?style=for-the-badge)](https://github.com/aaryangt) [![Open to Collab](https://img.shields.io/badge/Open%20to-Collabs-brightgreen?style=for-the-badge)](https://github.com/aaryangt) </div> --- ### 🎬 About Me > *Class 11 Commerce student. Founder of **AFX Studios** — a student-led creative media studio selected at school level with ₹20,000 seed capital. I build visuals, brands, and ideas.* - 🎯 Currently building **AFX Studios** (Video · Design · Marketing) - 📍 Based in **Delhi, India** - 🤖 Exploring **AI tools** for creative production - 📈 Learning **Digital Marketing** & business strategy - 💡 Always chasing the next big opportunity --- ### 🛠️ Tools & Skills <div align="center"> ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white) ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white) </div> --- ### 📊 GitHub Stats <div align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=aaryangt&show_icons=true&theme=dark&title_color=E8A020&icon_color=E8A020&text_color=E8E6DF&bg_color=161616&border_color=2A2A2A" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryangt&layout=compact&theme=dark&title_color=E8A020&text_color=E8E6DF&bg_color=161616&border_color=2A2A2A" /> <br/> <img src="https://streak-stats.demolab.com?user=aaryangt&theme=dark&background=161616&border=2A2A2A&ring=E8A020&fire=E8A020&currStreakLabel=E8A020" /> </div> --- ### 🚀 AFX Studios > A student-led creative media studio based in Delhi, India. | Service | Details | |---|---| | 🎬 Video Editing | Reels, Shorts, Brand Films | | 🎨 Graphic Design | Posters, Thumbnails, Logos | | 📣 Digital Marketing | Social Strategy, Content Plans | | 📸 Content Creation | Visual Storytelling, Branding | --- ### 🤝 Connect <div align="center"> [![Instagram](https://img.shields.io/badge/@AFXStudios-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aaryan_gt) [![aryangautam5030@gmail.com](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryangautam5030@gmail.com) <p><i>"Building in public. DMs always open."</i></p> </div> --- <div align="center"> <img src="https://komarev.com/ghpvc/?username=aaryangt&color=E8A020&style=flat-square&label=Profile+Views" /> </div>
+<!-- TOP BANNER -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E8A020&height=200&section=header&text=AFX%20Studios&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<!-- LOGO -->
+
+<p align="center">
+<img src="https://img.icons8.com/fluency/96/video-editing.png"/>
+<img src="https://img.icons8.com/fluency/96/adobe-photoshop.png"/>
+<img src="https://img.icons8.com/fluency/96/adobe-premiere-pro.png"/>
+<img src="https://img.icons8.com/fluency/96/adobe-after-effects.png"/>
+</p>
+
+<!-- TYPING TEXT -->
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&pause=1000&color=E8A020&center=true&vCenter=true&width=750&lines=Hey+I'm+Aryan;Founder+of+AFX+Studios;Creative+Director;AI+%7C+Media+%7C+Marketing;Delhi+India;Building+Big+Things"/>
+</p>
+
+<!-- BADGES -->
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Founder-AFX%20Studios-E8A020?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Location-Delhi-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20to-Collab-brightgreen?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🎬 About Me
+
+* Founder of **AFX Studios**
+* Class 11 Commerce Student
+* Video Editor / Designer / Marketer
+* Learning AI + Business + Branding
+* Future Entrepreneur 🚀
+
+---
+
+# ⚒ Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=ps,pr,ae,figma,github,html,css,js"/>
+
+</p>
+
+---
+
+# 📊 Stats
+
+<p align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=aaryangt&show_icons=true&theme=dark&title_color=E8A020&icon_color=E8A020&bg_color=000000"/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryangt&layout=compact&theme=dark&title_color=E8A020&bg_color=000000"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=aaryangt&theme=dark&ring=E8A020&fire=E8A020"/>
+
+</p>
+
+---
+
+# 🚀 AFX Studios
+
+| Service           | Details              |
+| ----------------- | -------------------- |
+| 🎬 Video Editing  | Reels / Shorts / Ads |
+| 🎨 Graphic Design | Posters / Logos      |
+| 📣 Marketing      | Social Media         |
+| 📸 Content        | Branding             |
+
+---
+
+# 🌐 Connect
+
+<p align="center">
+
+<a href="https://instagram.com/aaryan_gt">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:aryangautam5030@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
+Building AFX Studios in public ⚡
+
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=aaryangt&color=E8A020"/>
+</p>
+
+<!-- BOTTOM -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E8A020&height=120&section=footer"/>
+</p>
